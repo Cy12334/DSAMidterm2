@@ -21,13 +21,13 @@ Before installing React JS, you need to have the following software installed on
 ### Step-by-Step Installation
 1. **Install Node.js and NPM**
    - Download and install Node.js from [Node.js website](https://nodejs.org/).
-   - Verify installation:
+   - Once installed, verify the installation by running the following commands in your terminal:
      ```bash
      node -v
      npm -v
      ```
 2. **Create a New React Application**
-   - Open your terminal and run the following command:
+   - In your terminal, run this command to create a new React app
      ```bash
      npx create-react-app my-custom-react-app
      ```
